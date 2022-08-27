@@ -5,3 +5,5 @@
   ↪ [Variable declarations](/basics.go)
   
   ↪ [Pointer](/pointer.go)
+
+  ↪ [Type conversion](/type-conversion.go)
